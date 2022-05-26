@@ -4,7 +4,7 @@ Repository created for the project, for this project,
 I used the JavaFX, software technology that, when combined with Java, allows the creation and deployment of modern-looking applications. Furthermore,
 I used MySQL Workbench to manage the database.
 
-### <h1 align="center"> Final Project... </h1>:white_circle: Final Project...
+### <h1 align="center"> Final Project... </h1>
 
 ### :black_medium_square: Main View
 
