@@ -1,4 +1,4 @@
-# <h1 align="center">  Project (Workshop)  </h1>
+# <h1 align="center">  :white_medium_small_square: Project (Workshop) :white_medium_small_square: </h1>
 
 Repository created for the project, for this project, 
 I used the JavaFX, software technology that, when combined with Java, allows the creation and deployment of modern-looking applications. Furthermore,
